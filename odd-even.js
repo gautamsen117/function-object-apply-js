@@ -21,3 +21,4 @@ function checkEvenOdd(number){
 }
 
 let checkNumber = checkEvenOdd(25);
+console.log(checkNumber);
